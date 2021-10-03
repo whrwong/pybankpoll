@@ -1,1 +1,1 @@
-# Python PyBank, PyPoll Assignment
+# Python PyBank, PyPoll
